@@ -1,0 +1,28 @@
+# Environment variables
+.env
+.env.*
+.env.local
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hackathon secrets (never commit)
+.hackathon/secrets/
+
+# Logs
+*.log
+npm-debug.log*
