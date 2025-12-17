@@ -22,6 +22,7 @@ Thumbs.db
 
 # Hackathon secrets (never commit)
 .hackathon/secrets/
+*.hackathon
 
 # Logs
 *.log
